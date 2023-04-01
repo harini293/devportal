@@ -20,9 +20,10 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 ### Developer Notes
-#### Already Built
-    A basic website to display projects and partaking members.
-#### To Build
+#### Done
+    - Display of projects and partaking members.
+    - Registration, login-logout system for students.
+#### ToDo
     - Add Flexibility and make it Dynamic.
     - Add frontend page to let students partake in projects.
-    - Add registration, login-logout system for students.
+    
